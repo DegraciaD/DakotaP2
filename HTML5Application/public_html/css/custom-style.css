@@ -1,0 +1,17 @@
+div{
+  border-style: solid;
+  border-width:5px;
+  padding:30px;
+}
+
+.container{
+    border-color: red;
+}
+
+.row{
+    border-color: gold
+}
+
+body{
+   background-image: url(http://beraplan.com/wp-content/uploads/Deathstroke-Desktop-Background-HD-Wallpaper-Desktop.jpg)
+}
