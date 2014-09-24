@@ -12,6 +12,12 @@ div{
     border-color: gold
 }
 
+.list-group-item{
+    border: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 body{
    background-image: url(http://beraplan.com/wp-content/uploads/Deathstroke-Desktop-Background-HD-Wallpaper-Desktop.jpg)
 }
