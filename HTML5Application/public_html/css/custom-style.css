@@ -1,7 +1,8 @@
 div{
-  border-style: solid;
+  border-style: hidden;
+  /*this border style that hides all the containers and rows you made*/
   border-width:5px;
-  padding:30px;
+  padding:60px;
 }
 
 .container{
@@ -14,10 +15,12 @@ div{
 
 .list-group-item{
     border: 0;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    /* this  is the margins around your links that you made like the links you made to you about me page your technology page ,and your projects page.*/
 }
 
 body{
    background-image: url(http://beraplan.com/wp-content/uploads/Deathstroke-Desktop-Background-HD-Wallpaper-Desktop.jpg)
+   /*this is a background image of Deathstroke my favorite villan from the game  batman arkham origins*/
 }
